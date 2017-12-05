@@ -73,28 +73,6 @@ When a client makes a GET request to /cowsay?text={message} the server should pa
 </html>
 ```
 
-###### GET /api/cowsay?text={message}
-When a client makes a POST request to /api/cowsay it should send JSON that includes `{"text": "<message>"}`. The server should respond with a JSON body `{"content": "<cowsay cow>"}`.  
-
-* A response for a valid Request should have a status code of 200 and the JSON body:   
-``` json 
-{
-  "content": "<cowsay cow text>" 
-}
-```
-
-* A response for an invalid Request should have a status code of 400 and the JSON body:
-```
-{
-  "error": "invalid request: text query required"
-}
-```
-| Request | Response Status Code | Response Type | Response Body |
-| -- | -- | -- | -- |
-| With out a query | 400 | JSON | `{"error": "invalid request: query required"}` |
-| With out text property on the query | 400 | JSON | `{"error": "invalid request: text required"}` |
-| With text query | 200 | JSON | `{"content": "<cowsay cow text>"}` |
-
 ###### POST /api/cowsay 
 When a client makes a POST request to /api/cowsay it should send JSON that includes `{"text": "<message>"}`. 
 
