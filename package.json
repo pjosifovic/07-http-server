@@ -7,8 +7,6 @@
     "test": "jest -i --coverage",
     "lint": "eslint .",
     "start": "index.js"
-
-
   },
   "repository": {
     "type": "git",
@@ -26,6 +24,8 @@
     "jest": "^21.2.1"
   },
   "dependencies": {
+    "dotenv": "^4.0.0",
+    "faker": "^4.1.0",
     "winston": "^2.4.0"
   }
 }
