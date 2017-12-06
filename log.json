@@ -311,3 +311,112 @@
 {"level":"info","message":"URL: /cowsay?text=%20testing%20is%20fun","timestamp":"2017-12-06T03:39:25.793Z"}
 {"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"connection\":\"keep-alive\",\"user-agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\",\"upgrade-insecure-requests\":\"1\",\"accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\",\"accept-encoding\":\"gzip, deflate, br\",\"accept-language\":\"en-US,en;q=0.9,hr;q=0.8,sr;q=0.7\"}","timestamp":"2017-12-06T03:39:25.793Z"}
 {"level":"info","message":"Inside cowsay - Responding with a 200 status code","timestamp":"2017-12-06T03:39:25.795Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:08:12.466Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:11:41.906Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:14:02.742Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:14:02.743Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:14:02.743Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:14:02.744Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-06T04:14:02.751Z"}
+{"message":"Unexpected token t in JSON at position 2","stack":"SyntaxError: Unexpected token t in JSON at position 2\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:38:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-06T04:14:02.752Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:19:02.491Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:19:13.024Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:19:13.025Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:19:13.025Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:19:13.025Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-06T04:19:13.033Z"}
+{"message":"Unexpected token t in JSON at position 2","stack":"SyntaxError: Unexpected token t in JSON at position 2\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:38:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-06T04:19:13.033Z"}
+{"level":"info","message":"Body is required","timestamp":"2017-12-06T04:19:13.039Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:23:17.660Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:23:27.320Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:23:27.321Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:23:27.321Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:23:27.322Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-06T04:23:27.330Z"}
+{"message":"Unexpected token t in JSON at position 2","stack":"SyntaxError: Unexpected token t in JSON at position 2\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:38:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-06T04:23:27.330Z"}
+{"level":"info","message":"Body is required","timestamp":"2017-12-06T04:23:27.336Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:27:38.011Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:27:52.053Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:27:52.054Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:27:52.054Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:27:52.054Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-06T04:27:52.063Z"}
+{"message":"Unexpected token t in JSON at position 2","stack":"SyntaxError: Unexpected token t in JSON at position 2\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:39:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-06T04:27:52.063Z"}
+{"level":"info","message":"Body is required","timestamp":"2017-12-06T04:27:52.068Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:29:12.055Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:29:12.056Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:29:12.056Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"22\"}","timestamp":"2017-12-06T04:29:12.056Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-06T04:29:12.058Z"}
+{"message":"Unexpected token c in JSON at position 2","stack":"SyntaxError: Unexpected token c in JSON at position 2\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:39:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-06T04:29:12.058Z"}
+{"level":"info","message":"Body is required","timestamp":"2017-12-06T04:29:12.059Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:30:16.434Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:30:31.502Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:30:31.503Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:30:31.503Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:30:31.504Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:31:11.921Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:31:17.890Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:31:17.891Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:31:17.891Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:31:17.892Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:46:36.617Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:46:46.994Z"}
+{"level":"info","message":"Method: GET","timestamp":"2017-12-06T04:46:46.995Z"}
+{"level":"info","message":"URL: /","timestamp":"2017-12-06T04:46:46.996Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"connection\":\"keep-alive\",\"user-agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\",\"upgrade-insecure-requests\":\"1\",\"accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\",\"accept-encoding\":\"gzip, deflate, br\",\"accept-language\":\"en-US,en;q=0.9,hr;q=0.8,sr;q=0.7\"}","timestamp":"2017-12-06T04:46:46.996Z"}
+{"level":"info","message":"inside home page - Responding  with a 200 status code","timestamp":"2017-12-06T04:46:47.013Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:46:54.105Z"}
+{"level":"info","message":"Method: GET","timestamp":"2017-12-06T04:46:54.105Z"}
+{"level":"info","message":"URL: /cowsay","timestamp":"2017-12-06T04:46:54.105Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"connection\":\"keep-alive\",\"upgrade-insecure-requests\":\"1\",\"user-agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\",\"accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\",\"referer\":\"http://localhost:3000/\",\"accept-encoding\":\"gzip, deflate, br\",\"accept-language\":\"en-US,en;q=0.9,hr;q=0.8,sr;q=0.7\"}","timestamp":"2017-12-06T04:46:54.105Z"}
+{"level":"info","message":"Inside cowsay - Responding with a 200 status code","timestamp":"2017-12-06T04:46:54.110Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:47:20.150Z"}
+{"level":"info","message":"Method: GET","timestamp":"2017-12-06T04:47:20.150Z"}
+{"level":"info","message":"URL: /cowsay?text=%20testing","timestamp":"2017-12-06T04:47:20.150Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"connection\":\"keep-alive\",\"user-agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\",\"upgrade-insecure-requests\":\"1\",\"accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\",\"accept-encoding\":\"gzip, deflate, br\",\"accept-language\":\"en-US,en;q=0.9,hr;q=0.8,sr;q=0.7\"}","timestamp":"2017-12-06T04:47:20.151Z"}
+{"level":"info","message":"Inside cowsay - Responding with a 200 status code","timestamp":"2017-12-06T04:47:20.153Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:47:40.563Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:47:40.563Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:47:40.563Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:47:40.563Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:50:05.640Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:50:10.386Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:50:10.387Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:50:10.388Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:50:10.388Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:53:53.111Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:54:07.739Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:54:07.739Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:54:07.740Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:54:07.740Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T04:54:07.755Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T04:58:44.475Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T04:58:58.298Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T04:58:58.298Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T04:58:58.299Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T04:58:58.299Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T04:58:58.314Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:00:09.873Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:00:19.379Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:00:19.380Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:00:19.380Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:00:19.381Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:00:19.396Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:01:32.942Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:01:39.096Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:01:39.097Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:01:39.097Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:01:39.098Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:01:39.113Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:02:46.103Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:02:46.103Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:02:46.103Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:02:46.104Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:02:46.105Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:03:57.905Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:04:01.326Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:04:01.326Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:04:01.327Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:04:01.327Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:04:01.342Z"}
