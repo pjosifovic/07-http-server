@@ -420,3 +420,55 @@
 {"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:04:01.327Z"}
 {"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:04:01.327Z"}
 {"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:04:01.342Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:08:25.876Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:08:30.763Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:08:30.764Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:08:30.764Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:08:30.764Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:08:30.779Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:11:07.926Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:11:11.469Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:11:11.470Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:11:11.471Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:11:11.471Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:11:11.487Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:11:49.313Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:11:49.313Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:11:49.313Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:11:49.313Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:11:49.315Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:12:58.648Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:12:58.648Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:12:58.648Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:12:58.648Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:12:58.649Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:14:43.587Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:14:48.048Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:14:48.049Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:14:48.050Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:14:48.050Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:14:48.065Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:15:20.869Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:15:40.873Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:15:40.873Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:15:40.874Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:15:40.874Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:15:40.889Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:16:15.074Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:16:19.880Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:16:19.880Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:16:19.881Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:16:19.881Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:16:19.898Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:16:49.366Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:16:56.202Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:16:56.203Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:16:56.203Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:16:56.204Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:16:56.219Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-06T05:17:27.946Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-06T05:17:32.708Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-06T05:17:32.709Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-06T05:17:32.709Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"user-agent\":\"HTTPie/0.9.9\",\"accept-encoding\":\"gzip, deflate\",\"accept\":\"application/json, */*\",\"connection\":\"keep-alive\",\"content-type\":\"application/json\",\"content-length\":\"23\"}","timestamp":"2017-12-06T05:17:32.710Z"}
+{"level":"info","message":"POST - Responding with a 200 status code","timestamp":"2017-12-06T05:17:32.725Z"}
