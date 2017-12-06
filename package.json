@@ -22,7 +22,8 @@
   "devDependencies": {
     "cowsay": "^1.2.1",
     "eslint": "^4.12.1",
-    "jest": "^21.2.1"
+    "jest": "^21.2.1",
+    "superagent": "^3.8.1"
   },
   "dependencies": {
     "dotenv": "^4.0.0",
