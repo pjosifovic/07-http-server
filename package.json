@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/pjosifovic/07-http-server#readme",
   "devDependencies": {
+    "cowsay": "^1.2.1",
     "eslint": "^4.12.1",
     "jest": "^21.2.1"
   },
