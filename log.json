@@ -1619,3 +1619,318 @@
 {"level":"info","message":"Method: POST","timestamp":"2017-12-07T01:36:59.317Z"}
 {"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-07T01:36:59.317Z"}
 {"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/x-www-form-urlencoded\",\"content-length\":\"17\",\"connection\":\"close\"}","timestamp":"2017-12-07T01:36:59.317Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-11T19:04:03.211Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:04:12.142Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:04:12.143Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:04:12.143Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:04:12.144Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:04:12.195Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:04:12.195Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:04:12.195Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:04:12.195Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:04:12.197Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:04:12.197Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:04:44.953Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:04:44.953Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:04:44.953Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:04:44.953Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:04:44.975Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:04:44.975Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:04:44.975Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:04:44.975Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:04:44.976Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:04:44.976Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:05:35.171Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:05:35.171Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:05:35.171Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:05:35.171Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:05:35.223Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:05:35.223Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:05:35.223Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:05:35.224Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:05:35.224Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:05:35.225Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:08:05.531Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:08:05.532Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:08:05.532Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:08:05.532Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:08:05.562Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:08:05.563Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:08:05.563Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:08:05.563Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:08:05.563Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:08:05.563Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:09:22.746Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:09:22.747Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:09:22.747Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:09:22.747Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:09:22.792Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:09:22.792Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:09:22.792Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:09:22.792Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:09:22.793Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:09:22.793Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:09:52.446Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:09:52.447Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:09:52.447Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:09:52.447Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:09:52.487Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:09:52.487Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:09:52.487Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:09:52.487Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:09:52.488Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:09:52.488Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-11T19:13:08.473Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:13:15.099Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:13:15.100Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:13:15.100Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:13:15.101Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:13:15.162Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:13:15.162Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:13:15.162Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:13:15.162Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:13:15.165Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:13:15.165Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-11T19:17:19.519Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:17:26.452Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:17:26.452Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:17:26.453Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:17:26.454Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:17:26.520Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:17:26.521Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:17:26.521Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:17:26.521Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:17:26.523Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:17:26.523Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-11T19:18:11.708Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:18:17.028Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:18:17.029Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:18:17.029Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:18:17.029Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:18:17.089Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:18:17.089Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:18:17.089Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:18:17.089Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:18:17.092Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:18:17.092Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:18:59.232Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:18:59.232Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:18:59.232Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:18:59.232Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-11T19:18:59.267Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-11T19:18:59.268Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-11T19:18:59.268Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-11T19:18:59.268Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-11T19:18:59.268Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-11T19:18:59.268Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-12T04:03:27.734Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:03:38.801Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:03:38.801Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:03:38.802Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:03:38.802Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:03:38.859Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:03:38.859Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:03:38.859Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:03:38.859Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:03:38.862Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:03:38.862Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:04:12.562Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:04:12.562Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:04:12.562Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:04:12.562Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:04:12.593Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:04:12.594Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:04:12.594Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:04:12.594Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:04:12.594Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:04:12.595Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:04:46.680Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:04:46.680Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:04:46.680Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"16\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:04:46.680Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:04:46.716Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:04:46.717Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:04:46.717Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:04:46.717Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:04:46.717Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:04:46.717Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:06:43.487Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:06:43.487Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:06:43.490Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:06:43.490Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:06:43.527Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:06:43.528Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:06:43.528Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:06:43.528Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:06:43.529Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:06:43.529Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-12T04:08:50.362Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:08:57.704Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:08:57.705Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:08:57.705Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:08:57.706Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:08:57.720Z"}
+{"message":"First argument must be a string or Buffer","stack":"TypeError: First argument must be a string or Buffer\n    at ServerResponse.OutgoingMessage.write (_http_outgoing.js:457:11)\n    at requestParser.parse.then.request (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/server.js:83:20)\n    at process._tickCallback (internal/process/next_tick.js:109:7)","level":"info","timestamp":"2017-12-12T04:08:57.720Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:08:57.744Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:08:57.744Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:08:57.744Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:08:57.744Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:08:57.747Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:37:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:08:57.747Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-12T04:15:34.545Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:15:42.315Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:15:42.315Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:15:42.316Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:15:42.316Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:15:42.354Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:15:42.354Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:15:42.354Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:15:42.355Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:15:42.356Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:15:42.356Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:16:34.521Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:16:34.521Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:16:34.521Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:16:34.521Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:16:34.560Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:16:34.560Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:16:34.560Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:16:34.560Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:16:34.561Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:16:34.561Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:18:45.027Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:18:45.027Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:18:45.027Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:18:45.028Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:18:45.053Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:18:45.054Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:18:45.054Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:18:45.054Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:18:45.054Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:18:45.054Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:19:32.876Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:19:32.876Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:19:32.876Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:19:32.879Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:19:32.917Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:19:32.917Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:19:32.918Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:19:32.918Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:19:32.918Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:19:32.918Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:20:34.867Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:20:34.867Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:20:34.867Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:20:34.867Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:20:34.900Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:20:34.900Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:20:34.900Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:20:34.900Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:20:34.901Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:20:34.901Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:21:11.459Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:21:11.459Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:21:11.459Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:21:11.459Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:21:11.494Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:21:11.494Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:21:11.494Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:21:11.495Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:21:11.495Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:21:11.495Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-12T04:23:37.168Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:24:20.898Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:24:20.899Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:24:20.899Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:24:20.900Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:24:20.914Z"}
+{"message":"First argument must be a string or Buffer","stack":"TypeError: First argument must be a string or Buffer\n    at ServerResponse.OutgoingMessage.write (_http_outgoing.js:457:11)\n    at requestParser.parse.then.request (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/server.js:84:20)\n    at process._tickCallback (internal/process/next_tick.js:109:7)","level":"info","timestamp":"2017-12-12T04:24:20.914Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:24:20.935Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:24:20.935Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:24:20.935Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:24:20.936Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:24:20.937Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:24:20.938Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-12T04:25:14.483Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:25:22.352Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:25:22.353Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:25:22.353Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:25:22.354Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:25:22.368Z"}
+{"message":"First argument must be a string or Buffer","stack":"TypeError: First argument must be a string or Buffer\n    at ServerResponse.OutgoingMessage.write (_http_outgoing.js:457:11)\n    at requestParser.parse.then.request (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/server.js:84:20)\n    at process._tickCallback (internal/process/next_tick.js:109:7)","level":"info","timestamp":"2017-12-12T04:25:22.368Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:25:22.394Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:25:22.395Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:25:22.395Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:25:22.395Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:25:22.396Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:25:22.397Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-12T04:31:56.353Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:32:03.440Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:32:03.441Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:32:03.441Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:32:03.441Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:32:03.457Z"}
+{"message":"Cannot read property 'join' of undefined","stack":"TypeError: Cannot read property 'join' of undefined\n    at doIt (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:21:49)\n    at Object.exports.say (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:6:9)\n    at requestParser.parse.then.request (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/server.js:83:42)\n    at process._tickCallback (internal/process/next_tick.js:109:7)","level":"info","timestamp":"2017-12-12T04:32:03.457Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:32:03.478Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:32:03.478Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:32:03.478Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:32:03.478Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:32:03.479Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:32:03.479Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:32:50.857Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:32:50.857Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:32:50.857Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:32:50.857Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:32:50.858Z"}
+{"message":"Cannot read property 'join' of undefined","stack":"TypeError: Cannot read property 'join' of undefined\n    at doIt (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:21:49)\n    at Object.exports.say (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:6:9)\n    at requestParser.parse.then.request (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/server.js:83:42)\n    at process._tickCallback (internal/process/next_tick.js:109:7)","level":"info","timestamp":"2017-12-12T04:32:50.859Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:32:50.876Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:32:50.876Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:32:50.877Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:32:50.877Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:32:50.877Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:32:50.877Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:36:18.947Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:36:18.947Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:36:18.947Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:36:18.948Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:36:18.949Z"}
+{"message":"Cannot read property 'join' of undefined","stack":"TypeError: Cannot read property 'join' of undefined\n    at doIt (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:21:49)\n    at Object.exports.say (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:6:9)\n    at requestParser.parse.then.request (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/server.js:83:42)\n    at process._tickCallback (internal/process/next_tick.js:109:7)","level":"info","timestamp":"2017-12-12T04:36:18.949Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:36:18.974Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:36:18.977Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:36:18.977Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:36:18.977Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:36:18.977Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:36:18.977Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-12T04:37:12.670Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:37:20.108Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:37:20.109Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:37:20.110Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:37:20.110Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:37:20.126Z"}
+{"message":"Cannot read property 'join' of undefined","stack":"TypeError: Cannot read property 'join' of undefined\n    at doIt (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:21:49)\n    at Object.exports.say (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:6:9)\n    at requestParser.parse.then.request (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/server.js:83:42)\n    at process._tickCallback (internal/process/next_tick.js:109:7)","level":"info","timestamp":"2017-12-12T04:37:20.126Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-12T04:40:11.344Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:40:16.908Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:40:16.909Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:40:16.909Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:40:16.909Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:40:16.920Z"}
+{"message":"Cannot read property 'join' of undefined","stack":"TypeError: Cannot read property 'join' of undefined\n    at doIt (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:21:49)\n    at Object.exports.say (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/node_modules/cowsay/index.js:6:9)\n    at requestParser.parse.then.request (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/server.js:82:42)\n    at process._tickCallback (internal/process/next_tick.js:109:7)","level":"info","timestamp":"2017-12-12T04:40:16.920Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2017-12-12T04:43:34.222Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:43:39.809Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:43:39.809Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:43:39.810Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:43:39.810Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:44:51.661Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:44:51.661Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:44:51.662Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:44:51.662Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:45:30.811Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:45:30.811Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:45:30.812Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"15\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:45:30.812Z"}
+{"level":"info","message":"Processing Request","timestamp":"2017-12-12T04:45:30.838Z"}
+{"level":"info","message":"Method: POST","timestamp":"2017-12-12T04:45:30.838Z"}
+{"level":"info","message":"URL: /api/cowsay","timestamp":"2017-12-12T04:45:30.838Z"}
+{"level":"info","message":"HEADERS: {\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate\",\"user-agent\":\"node-superagent/3.8.1\",\"content-type\":\"application/json\",\"content-length\":\"1\",\"connection\":\"close\"}","timestamp":"2017-12-12T04:45:30.838Z"}
+{"level":"info","message":"Answering with a 400 status code","timestamp":"2017-12-12T04:45:30.840Z"}
+{"message":"Unexpected end of JSON input","stack":"SyntaxError: Unexpected end of JSON input\n    at Object.parse (native)\n    at IncomingMessage.request.on.error (/Users/predragjosifovic/codefellows/sea-401d19/lab-pedja/07-http-server/07-http-server/lib/request-parser.js:36:29)\n    at emitNone (events.js:86:13)\n    at IncomingMessage.emit (events.js:185:7)\n    at endReadableNT (_stream_readable.js:974:12)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickCallback (internal/process/next_tick.js:104:9)","level":"info","timestamp":"2017-12-12T04:45:30.840Z"}
