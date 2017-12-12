@@ -1,105 +1,39 @@
 ![cf](https://i.imgur.com/7v5ASc8.png) Lab 07: Vanilla HTTP Server
 ======
 
-## Submission Instructions
-* Work in a fork of this repository
-* Work in a branch on your fork
-* Write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-susan`
-* Open a pull request to this repository
-* Submit on canvas a question and observation, how long you spent, and a link to your pull request
+## Building HTTP server
+* Basic HTTP server that is displaying data for users and is able to receive data from users using POST route.
 
-## Resources
-* [Cowsay docs](https://github.com/piuccio/cowsay)
-
-## Configuration 
-Configure the root of your repository with the following files and directories. Thoughtfully name and organize any additional configuration or module files.
-* **README.md** - contains documentation
-* **.env** - contains env variables **(should be git ignored)**
-* **.gitignore** - contains a [robust](http://gitignore.io) `.gitignore` file 
-* **.eslintrc.json** - contains the course linter configuratoin
-* **.eslintignore** - contains the course linter ignore configuration
-* **package.json** - contains npm package config
-  * create a `lint` script for running eslint
-  * create a `test` script for running tests
-  * create a `start` script for running your server
-* **lib/** - contains module definitions
-* **\_\_test\_\_/** - contains unit tests
-
-## Feature Tasks  
-For this assignment you will be building a HTTP server. 
-#### Request Parser
-The request parser module should return a promise that parses the request url, querystring, and  POST or PUT body (as JSON).
-
-#### Server Module 
-The server module is responsible for creating an http server defining all route behavior and exporting an interface for starting and stopping the server. It should export an object with `start` and `stop` methods. 
-
-###### GET /
-When a client makes a GET request to / the server should send back html with a project description and an anchor to /cowsay.
-``` html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title> cowsay </title>  
-  </head>
-  <body>
-   <header>
-     <nav>
-       <ul> 
-         <li><a href="/cowsay">cowsay</a></li>
-       </ul>
-     </nav>
-   <header>
-   <main>
-     <!-- project description -->
-   </main>
-  </body>
-</html>
-```
-
-###### GET /cowsay?text={message}
-When a client makes a GET request to /cowsay?text={message} the server should parse the querystring for a text key. It should then send a rendered HTML page with a cowsay cow speaking the value of the text query. If there is no text query the cow message should say `'I need something good to say!'`. 
-``` html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title> cowsay </title>  
-  </head>
-  <body>
-    <h1> cowsay </h1>
-    <pre>
-      <!-- cowsay.say({text: req.query.text}) -->
-    </pre>
-  </body>
-</html>
-```
-
-###### POST /api/cowsay 
-When a client makes a POST request to /api/cowsay it should send JSON that includes `{"text": "<message>"}`. 
-
-* A response for a valid Request should have a status code of 200 and the JSON body:   
-
-``` json 
-{
-  "content": "<cowsay cow text>" 
-}
-```
-
-* A response for an invalid Request should have a status code of 400 and the JSON body:
-```
-{
-  "error": "invalid request: text query required"
-}
-```
-
-| Request | Response Status Code | Response Type | Response Body |
-| -- | -- | -- | -- |
-| With out a body | 400 | JSON | `{"error": "invalid request: body required"}` |
-| With out text property on the body | 400 | JSON | `{"error": "invalid request: text required"}` |
-| With text body | 200 | JSON | `{"content": "<cowsay cow text>"}` |
+## Code Style
+* Javascript + ES6
 
 
-## TEST
-Write a 200 and 400 test for your POST request to `/api/cowsay`
+## Tech / framework used
+* [npm package faker](https://www.npmjs.com/package/faker) to generate random user names.
+* [npm package winston](https://www.npmjs.com/package/winston) as a logging library.
+* [npm package jest](http://facebook.github.io/jest/) used for testing.
+* [npm package dotenv](https://www.npmjs.com/package/dotenv) for loading env variables.
+* [npm package cowsay](https://www.npmjs.com/package/cowsay) as a configurable talking cow.
+* [httpie](https://httpie.org/) to communicate with server using POST method
 
-## Bonus
-**1pts:** add the ability to change the cowfile on GET /api/cowsay, and POST /api/cowsay - **ex: dragon, sheep, etc**
+## Installation and How To Use
+
+Fork and clone this repo to you computer.
+
+Run `npm install`
+
+Run local server using this command `npm start` and make sure that env port is set to `3000` (add .env folder to repo and insert `PORT=3000`)
+
+Once server is running, proceed to your internet browser and in command line write `http://localhost:3000`.
+
+Browse through the displayed page and click on `cowsay` link. This link takes you to cowsay page and here modifying url you can display different messages that will display on your page. Simply edit `<message>` part of the url
+
+ When a client makes a POST request to /api/cowsay it should send JSON that includes `{"text": "<message>"}`. Make sure that httpie is installed on your computer first. `brew install httpie` for MaxOS users
+
+ run this command in CLI and new `message` to update what cow is saying
+
+ `echo '{"text": "<message>"}' | http POST localhost:3000/api/cowsay`
+
+
+## Licence
+MIT © Pedja Josifovic

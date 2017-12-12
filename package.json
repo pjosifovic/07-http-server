@@ -1,0 +1,33 @@
+{
+  "name": "07-http-server",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) Lab 07: Vanilla HTTP Server ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i --coverage",
+    "lint": "eslint .",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjosifovic/07-http-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjosifovic/07-http-server/issues"
+  },
+  "homepage": "https://github.com/pjosifovic/07-http-server#readme",
+  "devDependencies": {
+    "cowsay": "^1.2.1",
+    "eslint": "^4.12.1",
+    "jest": "^21.2.1",
+    "superagent": "^3.8.1"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "faker": "^4.1.0",
+    "winston": "^2.4.0"
+  }
+}
